@@ -1,0 +1,20 @@
+#intro{
+  width: 100%;
+}
+img{
+  width: 49%
+}
+h1{
+    text-align: center;
+}
+.tropical h1{
+  color:#f7325e;
+  font-family: fantasy;
+}
+.tropical p{
+  color: #7dc410;
+  font-family: fantasy;
+}
+.popular h1{
+  color:blue;
+}
